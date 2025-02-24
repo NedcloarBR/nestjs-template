@@ -1288,15 +1288,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/platform-fastify@npm:^11.0.5":
-  version: 11.0.5
-  resolution: "@nestjs/platform-fastify@npm:11.0.5"
+"@nestjs/platform-fastify@npm:^11.0.10":
+  version: 11.0.10
+  resolution: "@nestjs/platform-fastify@npm:11.0.10"
   dependencies:
     "@fastify/cors": "npm:10.0.2"
     "@fastify/formbody": "npm:8.0.2"
     "@fastify/middie": "npm:9.0.3"
     fastify: "npm:5.2.1"
-    light-my-request: "npm:6.5.1"
+    light-my-request: "npm:6.6.0"
     path-to-regexp: "npm:8.2.0"
     tslib: "npm:2.8.1"
   peerDependencies:
@@ -1309,7 +1309,7 @@ __metadata:
       optional: true
     "@fastify/view":
       optional: true
-  checksum: 10c0/6f16a84237ca4b999a44c826e086ad3bc4f7cd291883f5acffbf87af61b66a0db97ca6489fae00dd25f9f7462a7a9423b8302e716facbce3cf099ab18191e0c0
+  checksum: 10c0/ed2798951096238a549c09795e5d4e6be15c448c196b95795a6d780ef5f36a40888e30d510ce092a1940f13da5bd6f3bb5a362cc4783a45e1fb330a30b017671
   languageName: node
   linkType: hard
 
@@ -6025,14 +6025,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"light-my-request@npm:6.5.1":
-  version: 6.5.1
-  resolution: "light-my-request@npm:6.5.1"
+"light-my-request@npm:6.6.0":
+  version: 6.6.0
+  resolution: "light-my-request@npm:6.6.0"
   dependencies:
     cookie: "npm:^1.0.1"
     process-warning: "npm:^4.0.0"
     set-cookie-parser: "npm:^2.6.0"
-  checksum: 10c0/176471f5e0e3de86a52fe2eee86a911386ecd72ef27de3d0d8be5074d2163be5820b3649e0e391b3904e1875625c08a5a0d8536636105a14a01621c75fe4c12d
+  checksum: 10c0/1440853cd3822ab83fbb1be4456099082dec8e9e3a4ea35c9d8d7d17a7ab98c83ad0a4c39a73a8c2b31b9ca70c57506e5b7a929495c149463ca0daca0d90dc6f
   languageName: node
   linkType: hard
 
@@ -6605,7 +6605,7 @@ __metadata:
     "@nestjs/common": "npm:^11.0.5"
     "@nestjs/config": "npm:^4.0.0"
     "@nestjs/core": "npm:^11.0.5"
-    "@nestjs/platform-fastify": "npm:^11.0.5"
+    "@nestjs/platform-fastify": "npm:^11.0.10"
     "@nestjs/schematics": "npm:^11.0.0"
     "@nestjs/swagger": "npm:^11.0.3"
     "@nestjs/terminus": "npm:^11.0.0"
