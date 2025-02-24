@@ -792,9 +792,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fastify/static@npm:^8.0.4":
-  version: 8.0.4
-  resolution: "@fastify/static@npm:8.0.4"
+"@fastify/static@npm:^8.1.1":
+  version: 8.1.1
+  resolution: "@fastify/static@npm:8.1.1"
   dependencies:
     "@fastify/accept-negotiator": "npm:^2.0.0"
     "@fastify/send": "npm:^3.2.0"
@@ -802,7 +802,7 @@ __metadata:
     fastify-plugin: "npm:^5.0.0"
     fastq: "npm:^1.17.1"
     glob: "npm:^11.0.0"
-  checksum: 10c0/f5738bc367328fa50523e34881a8bedd540eb6fe9eafd2fc4e327ac2d2b1442c40b793b6f6f6340df76f74fb49128a6ba69a119dec552c8819076b2553b622ab
+  checksum: 10c0/ff6c1f508db308b323813b5bdddab898b0d0b92b481e1ffcc34ae43143e20a6d7c0645043a03c5c7663005277e2a9519f21adb3cf5f73d962379b0d0fb075e3b
   languageName: node
   linkType: hard
 
@@ -6598,7 +6598,7 @@ __metadata:
     "@biomejs/biome": "npm:^1.9.4"
     "@commitlint/cli": "npm:^19.6.1"
     "@commitlint/config-angular": "npm:^19.7.0"
-    "@fastify/static": "npm:^8.0.4"
+    "@fastify/static": "npm:^8.1.1"
     "@nedcloarbr/biome-config": "npm:^1.6.1"
     "@nestjs/axios": "npm:^4.0.0"
     "@nestjs/cli": "npm:^11.0.2"
