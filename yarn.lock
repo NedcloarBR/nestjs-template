@@ -1411,9 +1411,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/testing@npm:^11.0.5":
-  version: 11.0.5
-  resolution: "@nestjs/testing@npm:11.0.5"
+"@nestjs/testing@npm:^11.0.11":
+  version: 11.0.11
+  resolution: "@nestjs/testing@npm:11.0.11"
   dependencies:
     tslib: "npm:2.8.1"
   peerDependencies:
@@ -1426,7 +1426,7 @@ __metadata:
       optional: true
     "@nestjs/platform-express":
       optional: true
-  checksum: 10c0/658f4da89d39c2dd8d74edc6e82aaacd0b778e2d440161bb714d312abd250ebd07936d9aa354b6a333e1d165dad9ae327bfe8d7e811b7fed49e32a903192d754
+  checksum: 10c0/1961db7d56707ea756c09022b2b8070662668f422fb296965248525cadbb68dd9cafd69bccd5f198ea9447e70616ce3f86ce6807d5950cac2251e365324f947e
   languageName: node
   linkType: hard
 
@@ -6609,7 +6609,7 @@ __metadata:
     "@nestjs/schematics": "npm:^11.0.0"
     "@nestjs/swagger": "npm:^11.0.3"
     "@nestjs/terminus": "npm:^11.0.0"
-    "@nestjs/testing": "npm:^11.0.5"
+    "@nestjs/testing": "npm:^11.0.11"
     "@opentelemetry/api": "npm:^1.9.0"
     "@opentelemetry/auto-instrumentations-node": "npm:^0.55.3"
     "@opentelemetry/context-async-hooks": "npm:^1.30.1"
