@@ -1243,9 +1243,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/core@npm:^11.0.5":
-  version: 11.0.5
-  resolution: "@nestjs/core@npm:11.0.5"
+"@nestjs/core@npm:^11.0.16":
+  version: 11.0.16
+  resolution: "@nestjs/core@npm:11.0.16"
   dependencies:
     "@nuxt/opencollective": "npm:0.4.1"
     fast-safe-stringify: "npm:2.1.1"
@@ -1267,7 +1267,7 @@ __metadata:
       optional: true
     "@nestjs/websockets":
       optional: true
-  checksum: 10c0/8e94ee276dc57844747941dc102962d9844b333412bec90abddef957604b2a7e7f25c338fd58573711d67eee003d5110d3a85bf353a56bfe6fb3fec8263c5961
+  checksum: 10c0/f6e8afae99a9e92655d9846f2560fbabb79c374c40f589d19a02ef80162d2e02c32ec153c4698cf888a9fa9cd2a7d6cd09c2f41a1959334a29a8bd308e3a4f05
   languageName: node
   linkType: hard
 
@@ -6604,7 +6604,7 @@ __metadata:
     "@nestjs/cli": "npm:^11.0.2"
     "@nestjs/common": "npm:^11.0.5"
     "@nestjs/config": "npm:^4.0.0"
-    "@nestjs/core": "npm:^11.0.5"
+    "@nestjs/core": "npm:^11.0.16"
     "@nestjs/platform-fastify": "npm:^11.0.5"
     "@nestjs/schematics": "npm:^11.0.0"
     "@nestjs/swagger": "npm:^11.0.3"
